@@ -27,7 +27,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [[Axios-url](https://axios-http.com/)]
 
 * Demo:
-  ![plot](./public/images/Call-Localhost-Web.png)
+  ![plot](public/styles/images/Blog API.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
