@@ -12,8 +12,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Using NodeJS || Express || Axios || EJS to create a server call API public weather.
-<a href="https://openweathermap.org/current#builtin" alt="Remember to login take the API key">Link OpenWeather</a>
+Using NodeJS || Express || Axios || EJS create backend server to call build own API.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -55,13 +54,15 @@ After cloning project do this to load the web server
    ```sh
    npm install
    ```
-4. Enter your API in `server.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Run localhost:3000 in `server.js` open with terminal
+4. Load two localhost with use to load backend server || with use to call data from API
+   
+   Run localhost:3000 in `server.js` to load the backend call to API || Open in terminal
    ```js
    nodemon server.js
+   ```
+   Run localhost:4000 in `index.js` to load the API request to backend server || Open in terminal
+   ```js
+   nodemon index.js
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
