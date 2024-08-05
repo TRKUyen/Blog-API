@@ -45,16 +45,15 @@ After cloning project do this to load the web server
 
 ### Installation
 
-1. Get a free API Key at [https://openweathermap.org/](https://openweathermap.org/)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/TRKUyen/Use_Public_API_NodeJS.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Load two localhost with use to load backend server || with use to call data from API
+3. Load two localhost with use to load backend server || with use to call data from API
    
    Run localhost:3000 in `server.js` to load the backend call to API || Open in terminal
    ```js
